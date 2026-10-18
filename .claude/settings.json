@@ -1,3 +1,4 @@
 {
-  "idleCompaction": false
+  "idleCompaction": false,
+  "showThinkingSummaries": true
 }
